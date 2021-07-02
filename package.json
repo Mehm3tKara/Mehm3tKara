@@ -1,0 +1,14 @@
+{
+  "name": "newrpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Mehm3tKara",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
